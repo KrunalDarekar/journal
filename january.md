@@ -11,3 +11,15 @@
 
 ### journal
 I want to start everyday by reading the last journal, the todos that I did not complete will have a reason next to them because of which I was not able to complete them so I will keep them in mind throughout the day. 
+
+## 02/01/2024
+
+### list
+ - [ ] read the last journal 
+ - [ ] web dev
+ - [ ] complete SPM
+ - [ ] go to gym
+ - [ ] Make the workout program
+ - [ ] upload the video
+
+### journal
