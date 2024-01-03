@@ -39,8 +39,8 @@ I want to work on these motivators
 
 ### list
  - [x] read the last journal 
- - [x] start working on the memory game project  --> again it is just boring and I decided to watch harkirat's stream instead
- - [ ] complete SPM
+ - [x] start working on the memory game project  
+ - [ ] complete SPM  --> again it is just boring and I decided to watch harkirat's stream instead
  - [x] Make the workout program
  - [x] go to gym
  - [x] dsa lessons
@@ -55,3 +55,18 @@ learned about ethereum in the learnWeb3 lesson.
 learned about quick sort in the dsa lesson.
 made the workout program for 3 days finally after all that procrastination.
 and now I am headed to watching harkirat's live stream on making a leetcode clone.
+
+## 03/01/2024
+
+### list
+ - [ ] read the last journal 
+ - [ ] start work on the memory game project  
+ - [ ] complete SPM 3rd unit first thing in the morning
+ - [ ] wash my bike
+ - [ ] dsa lessons
+ - [ ] learnWeb3 lesson
+ - [ ] start iot units preferably complete 2 units
+ - [ ] find answers for unit 4 spm
+
+
+### journal
