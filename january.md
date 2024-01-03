@@ -34,3 +34,17 @@ curiosity: I want to learn how each and every technology works
 autonomy: I want to build tech "my way"
 autotelicity: I want to enjoy programming for the sake of it.
 I want to work on these motivators
+
+## 03/01/2024
+
+### list
+ - [ ] read the last journal 
+ - [ ] start working on the memory game project
+ - [ ] complete SPM
+ - [ ] Make the workout program
+ - [ ] go to gym
+ - [ ] dsa lessons
+ - [ ] learnWeb# lesson
+
+### journal
+
