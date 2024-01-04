@@ -56,17 +56,23 @@ learned about quick sort in the dsa lesson.
 made the workout program for 3 days finally after all that procrastination.
 and now I am headed to watching harkirat's live stream on making a leetcode clone.
 
-## 03/01/2024
+## 04/01/2024
 
 ### list
- - [ ] read the last journal 
- - [ ] start work on the memory game project  
- - [ ] complete SPM 3rd unit first thing in the morning
- - [ ] wash my bike
- - [ ] dsa lessons
- - [ ] learnWeb3 lesson
- - [ ] start iot units preferably complete 2 units
- - [ ] find answers for unit 4 spm
+ - [x] read the last journal 
+ - [x] start work on the memory game project  
+ - [x] complete SPM 3rd unit first thing in the morning
+ - [x] wash my bike
+ - [x] dsa lessons
+ - [x] learnWeb3 lesson
+ - [x] start iot units preferably complete 2 units
+ - [x] find answers for unit 4 spm
 
 
 ### journal
+so had a really good day. first time completed all the todos that was nice. had a really nice coffee protein shake, moms back from her trip so she is cooking for me which is way nicer and saves me a lot of time so grateful for that. actually completed the memory game project today which was nice and tweeted about it.
+I learned about how I should recover from the fatigue after getting into the flow state which helped me get into the zone twice today.
+completed the 2 units of IOT which I assigned today.
+other than that the usual learWeb3 and dsa lesson learned about doubly  linked list in that dsa lesson.
+wanted to get a haircut today but that did not happen.
+ending the day early today might do another dsa or web3 lesson or even an odin project lesson.
