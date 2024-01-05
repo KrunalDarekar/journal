@@ -76,3 +76,21 @@ completed the 2 units of IOT which I assigned today.
 other than that the usual learWeb3 and dsa lesson learned about doubly  linked list in that dsa lesson.
 wanted to get a haircut today but that did not happen.
 ending the day early today might do another dsa or web3 lesson or even an odin project lesson.
+
+## 05/01/2024
+
+### list
+ - [x] read the last journal 
+ - [ ] start iot units preferably complete 3 units
+ - [ ] go to gym
+ - [ ] odin project lesson 
+ - [ ] dsa lessons
+ - [ ] learnWeb3 lesson
+ - [ ] find answers for unit 5 spm
+
+ ### journal
+because I am going to attend the cloud computing class, it is going to cause me to not be able to do the following things:
+1. go to gym
+2. haircut
+3. probably not complete 1 or 2 of my todos
+but I am still attending it as it might save me time with the preparation for the CC exam where I have delegated a lot of my time in the coming week so this will make me fall behind a day for now but might save me two days later on. we'll see if that works out.
