@@ -81,16 +81,16 @@ ending the day early today might do another dsa or web3 lesson or even an odin p
 
 ### list
  - [x] read the last journal 
- - [ ] start iot units preferably complete 3 units
- - [ ] go to gym
- - [ ] odin project lesson 
- - [ ] dsa lessons
- - [ ] learnWeb3 lesson
- - [ ] find answers for unit 5 spm
+ - [x] start iot units preferably complete 3 units
+ - [x] go to gym
+ - [x] odin project lesson 
+ - [x] dsa lessons
+ - [x] learnWeb3 lesson
+ - [x] find answers for unit 5 spm
 
  ### journal
-because I am going to attend the cloud computing class, it is going to cause me to not be able to do the following things:
-1. go to gym
-2. haircut
-3. probably not complete 1 or 2 of my todos
-but I am still attending it as it might save me time with the preparation for the CC exam where I have delegated a lot of my time in the coming week so this will make me fall behind a day for now but might save me two days later on. we'll see if that works out.
+had a decent day. did not feel super good like yesterday and these days will and they'll come very often in the coming weeks as the exams will start but that is fine I'll do my best to tackle them.
+I completed all my todos did not think that would happen during the day but eh it was not that hard. had a huge lunch gonna start working on my diet from the next week (having a huge lunch is good).
+so tomorrow I'll have to go clg. if I return early that would be a good thing so I'll able to focus on my work more
+I want to start writing articles on peakD on self improvement and my dev journey lets see I'll do something about that
+that ends the day, might do another web3 lesson right now.
