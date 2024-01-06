@@ -94,3 +94,17 @@ I completed all my todos did not think that would happen during the day but eh i
 so tomorrow I'll have to go clg. if I return early that would be a good thing so I'll able to focus on my work more
 I want to start writing articles on peakD on self improvement and my dev journey lets see I'll do something about that
 that ends the day, might do another web3 lesson right now.
+
+## 6/01/2024
+
+### list
+ - [ ] read the last journal 
+ - [ ] start NS units finish 2 preferably 
+ - [ ] attend CC class
+ - [ ] go to gym
+ - [ ] odin project lesson 
+ - [ ] dsa lessons
+ - [ ] learnWeb3 lesson
+ - [ ] get prints for NS and spm notes
+
+ ### journal
