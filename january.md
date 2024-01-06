@@ -110,4 +110,16 @@ that ends the day, might do another web3 lesson right now.
  ### journal
 Ahh went to the cloud computing class and it was useless! got nothing good for preparing the cc exam. so that just set the tone for the day. however I got the web3 lesson done before going to the class.
 Did not do anything from the todo list today because I also had the cohort class today and debugging the dApp took a lot from me.
-saying that hopefully tomorrow will be better we are a day behind on the exam schedule but well'll do something about that.
+saying that hopefully tomorrow will be better, we are a day behind on the exam schedule but well'll do something about that.
+
+## 7/01/2024
+
+### list
+ - [x] read the last journal 
+ - [ ] complete NS questions as manys as I can minimum 30
+ - [ ] go to gym
+ - [ ] odin project lesson 
+ - [ ] dsa lessons
+ - [ ] learnWeb3 lesson
+ - [ ] Make the workout plan
+ - [ ] get prints for NS and spm notes
