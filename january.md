@@ -89,7 +89,7 @@ ending the day early today might do another dsa or web3 lesson or even an odin p
  - [x] find answers for unit 5 spm
 
  ### journal
-had a decent day. did not feel super good like yesterday and these days will and they'll come very often in the coming weeks as the exams will start but that is fine I'll do my best to tackle them.
+had a decent day. did not feel super good like yesterday and these days will happen and they'll come very often in the coming weeks as the exams will start but that is fine I'll do my best to tackle them.
 I completed all my todos did not think that would happen during the day but eh it was not that hard. had a huge lunch gonna start working on my diet from the next week (having a huge lunch is good).
 so tomorrow I'll have to go clg. if I return early that would be a good thing so I'll able to focus on my work more
 I want to start writing articles on peakD on self improvement and my dev journey lets see I'll do something about that
@@ -98,13 +98,16 @@ that ends the day, might do another web3 lesson right now.
 ## 6/01/2024
 
 ### list
- - [ ] read the last journal 
+ - [x] read the last journal 
  - [ ] start NS units finish 2 preferably 
- - [ ] attend CC class
+ - [x] attend CC class
  - [ ] go to gym
  - [ ] odin project lesson 
  - [ ] dsa lessons
- - [ ] learnWeb3 lesson
+ - [x] learnWeb3 lesson
  - [ ] get prints for NS and spm notes
 
  ### journal
+Ahh went to the cloud computing class and it was useless! got nothing good for preparing the cc exam. so that just set the tone for the day. however I got the web3 lesson done before going to the class.
+Did not do anything from the todo list today because I also had the cohort class today and debugging the dApp took a lot from me.
+saying that hopefully tomorrow will be better we are a day behind on the exam schedule but well'll do something about that.
