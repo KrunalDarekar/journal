@@ -116,10 +116,17 @@ saying that hopefully tomorrow will be better, we are a day behind on the exam s
 
 ### list
  - [x] read the last journal 
- - [ ] complete NS questions as manys as I can minimum 30
- - [ ] go to gym
- - [ ] odin project lesson 
- - [ ] dsa lessons
+ - [x] complete NS questions as manys as I can minimum 30 (completed 25)
+ - [x] go to gym
+ - [x] odin project lesson 
+ - [x] dsa lessons
  - [ ] learnWeb3 lesson
  - [ ] Make the workout plan
- - [ ] get prints for NS and spm notes
+ - [x] get prints for NS and spm notes
+
+ ### journal
+
+ had a decent day, didi made some spring rolls which were amazing but gave me some stomach problems.
+ did everything except the learnWeb# lesson and the workout plan I do have some time but I don't feel like working anymore so we'll see if my mood changes after going to a walk.
+ the things that I learned today were pretty boring and won't really need them in my dev journey but just to understand legacy code.
+ I am pretty sure I'll do even better tomorrow as I do not have a cohort class we'll see.
