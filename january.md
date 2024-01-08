@@ -130,3 +130,18 @@ saying that hopefully tomorrow will be better, we are a day behind on the exam s
  did everything except the learnWeb# lesson and the workout plan I do have some time but I don't feel like working anymore so we'll see if my mood changes after going to a walk.
  the things that I learned today were pretty boring and won't really need them in my dev journey but just to understand legacy code.
  I am pretty sure I'll do even better tomorrow as I do not have a cohort class we'll see.
+
+ ## 8/01/2024
+
+### list
+ - [ ] read the last journal 
+ - [ ] complete NS question bank
+ - [ ] start working with the cloud computing question bank
+ - [ ] go to gym
+ - [ ] learnWeb3 lesson
+ - [ ] odin project lesson 
+ - [ ] dsa lessons
+ - [ ] write the script for the video
+ - [ ] Make the workout plan
+
+### journal
