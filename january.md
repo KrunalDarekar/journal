@@ -147,7 +147,7 @@ saying that hopefully tomorrow will be better, we are a day behind on the exam s
 ### journal
 this was a mixed day had a really good workout and food was good today. with programming I made my own ERC20 token and I did the dfs binary tree algorithm which felt good. and I got started with the odin projects react testing part. but I also spent most of my time with the cloud computing question bank answers which was not interesting at all and my back is aching now. still we have like 15 more days of this. we'll see.
 
-## 8/01/2024
+## 9/01/2024
 
 ### list
  - [ ] read the last journal
