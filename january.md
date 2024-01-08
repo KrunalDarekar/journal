@@ -127,21 +127,22 @@ saying that hopefully tomorrow will be better, we are a day behind on the exam s
  ### journal
 
  had a decent day, didi made some spring rolls which were amazing but gave me some stomach problems.
- did everything except the learnWeb# lesson and the workout plan I do have some time but I don't feel like working anymore so we'll see if my mood changes after going to a walk.
+ did everything except the learnWeb3 lesson and the workout plan I do have some time but I don't feel like working anymore so we'll see if my mood changes after going to a walk.
  the things that I learned today were pretty boring and won't really need them in my dev journey but just to understand legacy code.
  I am pretty sure I'll do even better tomorrow as I do not have a cohort class we'll see.
 
  ## 8/01/2024
 
 ### list
- - [ ] read the last journal 
- - [ ] complete NS question bank
- - [ ] start working with the cloud computing question bank
- - [ ] go to gym
- - [ ] learnWeb3 lesson
+ - [x] read the last journal 
+ - [x] complete NS question bank
+ - [x] start working with the cloud computing question bank
+ - [x] go to gym
+ - [x] learnWeb3 lesson
  - [ ] odin project lesson 
- - [ ] dsa lessons
+ - [x] dsa lessons
  - [ ] write the script for the video
  - [ ] Make the workout plan
 
 ### journal
+this was a mixed day had a really good workout and food was good today. with programming I made my own ERC20 token and I did the dfs binary tree algorithm which felt good. and I got started with the odin projects react testing part. but I also spent most of my time with the cloud computing question bank answers which was not interesting at all and my back is aching now. still we have like 15 more days of this. we'll see.
