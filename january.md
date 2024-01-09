@@ -150,14 +150,15 @@ this was a mixed day had a really good workout and food was good today. with pro
 ## 9/01/2024
 
 ### list
- - [ ] read the last journal
- - [ ] find the answers to the remaining cc questions
- - [ ] complete as much cc as I can
+ - [x] read the last journal
+ - [x] find the answers to the remaining cc questions
+ - [x] complete as much cc as I can
  - [ ] go to gym
- - [ ] odin project lesson 
- - [ ] dsa lessons
+ - [x] odin project lesson 
+ - [x] dsa lessons
  - [ ] go through 100xdocs
  - [ ] write the script for the video
  - [ ] Make the workout plan
 
  ### journal
+ almost forgot to journal today, had a mid day skipped gym and did not study as much as I could for skipping the gym, so yeah it was that type of day. I've got to lock in now its time. see ya tomorrow
