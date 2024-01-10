@@ -162,3 +162,18 @@ this was a mixed day had a really good workout and food was good today. with pro
 
  ### journal
  almost forgot to journal today, had a mid day skipped gym and did not study as much as I could for skipping the gym, so yeah it was that type of day. I've got to lock in now its time. see ya tomorrow
+
+## 10/01/2024
+
+### list
+ - [ ] read the last journal
+ - [ ] complete cc 2 mark questions
+ - [ ] complete as much cc 10 mark questions
+ - [ ] odin project lesson/ learn web3 lesson
+ - [ ] dsa lessons
+ - [ ] get the hall ticket printed
+ - [ ] go through 100xdocs
+ - [ ] write the script for the video
+ - [ ] Make the workout plan
+
+ ### journal
