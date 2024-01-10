@@ -166,14 +166,16 @@ this was a mixed day had a really good workout and food was good today. with pro
 ## 10/01/2024
 
 ### list
- - [ ] read the last journal
- - [ ] complete cc 2 mark questions
+ - [x] read the last journal
+ - [x] complete cc 2 mark questions
  - [ ] complete as much cc 10 mark questions
  - [ ] odin project lesson/ learn web3 lesson
- - [ ] dsa lessons
+ - [x] dsa lessons
+ - [x] week 6 cohort assignments
  - [ ] get the hall ticket printed
  - [ ] go through 100xdocs
  - [ ] write the script for the video
  - [ ] Make the workout plan
 
- ### journal
+### journal
+again almost forgot to journal today, the days have not just been good recently because of my exam prep, it is just taking a lot of time. from tomorrow I am going to assign a particular time for the exam prep and will try not to miss on other activities that I need to do we'll see. 
