@@ -184,16 +184,15 @@ again almost forgot to journal today, the days have not just been good recently 
 
 ### list
  - [x] read the last journal
- - [ ] complete cc 10 mark questions
- - [ ] cc revision 1
+ - [x] complete cc 10 mark questions
+ - [x] cc revision 1
  - [ ] cc revision 2
  - [ ] odin project lesson/ learn web3 lesson
- - [ ] dsa lessons
- - [ ] week 6 cohort assignments
- - [ ] get the hall ticket printed
+ - [x] dsa lessons
+ - [x] get the hall ticket printed
  - [ ] go through 100xdocs
  - [ ] write the script for the video
  - [ ] Make the workout plan
 
- ### journal
- 
+### journal
+again almost forgot to journal today need to assign a specific time for journaling not just the end of the day, had a very tedious day cannot help but take the exams less seriously, even if I tried lets see how the exam goes.
