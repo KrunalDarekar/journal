@@ -178,4 +178,22 @@ this was a mixed day had a really good workout and food was good today. with pro
  - [ ] Make the workout plan
 
 ### journal
-again almost forgot to journal today, the days have not just been good recently because of my exam prep, it is just taking a lot of time. from tomorrow I am going to assign a particular time for the exam prep and will try not to miss on other activities that I need to do we'll see. 
+again almost forgot to journal today, the days have not just been good recently because of my exam prep, it is just taking a lot of time. from tomorrow I am going to assign a particular time for the exam prep and will try not to miss on other activities that I need to do we'll see.
+
+## 11/01/2024
+
+### list
+ - [x] read the last journal
+ - [ ] complete cc 10 mark questions
+ - [ ] cc revision 1
+ - [ ] cc revision 2
+ - [ ] odin project lesson/ learn web3 lesson
+ - [ ] dsa lessons
+ - [ ] week 6 cohort assignments
+ - [ ] get the hall ticket printed
+ - [ ] go through 100xdocs
+ - [ ] write the script for the video
+ - [ ] Make the workout plan
+
+ ### journal
+ 
