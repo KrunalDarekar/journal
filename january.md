@@ -196,3 +196,16 @@ again almost forgot to journal today, the days have not just been good recently 
 
 ### journal
 again almost forgot to journal today need to assign a specific time for journaling not just the end of the day, had a very tedious day cannot help but take the exams less seriously, even if I tried lets see how the exam goes.
+
+## 12/01/2024
+
+### list
+ - [ ] read the last journal
+ - [ ] complete ost 2 mark questions
+ - [ ] odin project lesson/ learn web3 lesson
+ - [ ] assign specific time for journaling
+ - [ ] dsa lessons
+ - [ ] get the hall ticket printed
+ - [ ] write the script for the video
+ - [ ] record the video
+ - [ ] Make the workout plan
