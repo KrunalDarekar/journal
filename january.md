@@ -213,14 +213,20 @@ again almost forgot to journal today need to assign a specific time for journali
 ### journal
 was about to journal last night but my Internet connection was cut off, but now that I think about it I should have just commited the journal and not push it, ahh but whatever I just forgot 
 
+## 13//01/2024
+
 ### list
- - [ ] read the last journal
- - [ ] complete ost
- - [ ] get the cohort stuff done
+ - [x] read the last journal
+ - [x] complete ost 2 mark
+ - [x] get the cohort stuff done
  - [ ] odin project lesson/ learn web3 lesson
- - [ ] assign specific time for journaling
- - [ ] dsa lessons
- - [ ] write the script for the video
+ - [x] assign specific time for journaling
+ - [x] dsa lessons
+ - [x] write the script for the video
  - [ ] record the video
  - [ ] Make the workout plan
+ - [x] journal
+
+### journal
+so had a decent day, it was a good rail off from the busy days with exams. did not do an odin project or web# lesson because I had a cohort class. I have decided to add a journal in the todos everyday which will remind me to journal everyday, lets see if that fixes me forgetting to do it. and now I am going to wind down see if my query got solved for the web# problem and go chill at my friends place a bit.
 
