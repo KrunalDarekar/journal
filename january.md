@@ -209,3 +209,18 @@ again almost forgot to journal today need to assign a specific time for journali
  - [ ] write the script for the video
  - [ ] record the video
  - [ ] Make the workout plan
+
+### journal
+was about to journal last night but my Internet connection was cut off, but now that I think about it I should have just commited the journal and not push it, ahh but whatever I just forgot 
+
+### list
+ - [ ] read the last journal
+ - [ ] complete ost
+ - [ ] get the cohort stuff done
+ - [ ] odin project lesson/ learn web3 lesson
+ - [ ] assign specific time for journaling
+ - [ ] dsa lessons
+ - [ ] write the script for the video
+ - [ ] record the video
+ - [ ] Make the workout plan
+
