@@ -233,13 +233,16 @@ so had a decent day, it was a good rail off from the busy days with exams. did n
 ## 14/01/2024
 
 ### list
- - [ ] read the last journal
- - [ ] complete ost 25 question
+ - [x] read the last journal
+ - [x] complete ost 25 question
  - [ ] complete ost 25 question (2)
- - [ ] get the cohort stuff done
- - [ ] odin project lesson/ learn web3 lesson
- - [ ] dsa lessons
- - [ ] record the video
+ - [x] get the cohort stuff done
+ - [x] odin project lesson/ learn web3 lesson
+ - [x] dsa lessons
+ - [x] record the video
  - [ ] Make the workout plan
- - [ ] journal
+ - [x] journal
+
+### journal 
+had a really good day, as the things I did for ost were pretty easy. spent the most of the day in web dev. mainly got an opportunity for getting an internship which I think is going to be interesting. also recorded the recap video gonna be editing and posting it tomorrow. let's see
 
