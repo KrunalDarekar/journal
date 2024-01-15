@@ -246,3 +246,16 @@ so had a decent day, it was a good rail off from the busy days with exams. did n
 ### journal 
 had a really good day, as the things I did for ost were pretty easy. spent the most of the day in web dev. mainly got an opportunity for getting an internship which I think is going to be interesting. also recorded the recap video gonna be editing and posting it tomorrow. let's see
 
+## 15/01/2024
+
+### list
+ - [ ] read the last journal
+ - [ ] complete ost questions
+ - [ ] revise ost once
+ - [ ] work on the codedamn assignment
+ - [ ] odin project lesson/ learn web3 lesson
+ - [ ] dsa lessons
+ - [ ] edit the video and publish it
+ - [ ] Make the workout plan
+ - [ ] journal
+ 
