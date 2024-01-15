@@ -249,13 +249,16 @@ had a really good day, as the things I did for ost were pretty easy. spent the m
 ## 15/01/2024
 
 ### list
- - [ ] read the last journal
- - [ ] complete ost questions
+ - [x] read the last journal
+ - [x] complete ost questions
  - [ ] revise ost once
- - [ ] work on the codedamn assignment
+ - [x] work on the codedamn assignment
  - [ ] odin project lesson/ learn web3 lesson
  - [ ] dsa lessons
- - [ ] edit the video and publish it
+ - [x] edit the video and publish it
  - [ ] Make the workout plan
- - [ ] journal
+ - [x] journal
+
+### journal 
+had a really blurry day, I did a lot still feel like I did nothing, these exams are just sucking the soul out of me. when I try to work on web dev I am thinking about the exam prep and when I am preping for exam I think about web dev ideaas. shit we'll see
  
