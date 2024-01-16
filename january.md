@@ -261,4 +261,7 @@ had a really good day, as the things I did for ost were pretty easy. spent the m
 
 ### journal 
 had a really blurry day, I did a lot still feel like I did nothing, these exams are just sucking the soul out of me. when I try to work on web dev I am thinking about the exam prep and when I am preping for exam I think about web dev ideaas. shit we'll see
+
+### 16/01/2024
+damn forgot to add todos today, ahh the exams are killing me, even though I came home early today still did not do much work, I admit today I did waste a lot of time, but we don't have time to be sad about that and get to work, so let's see.
  
