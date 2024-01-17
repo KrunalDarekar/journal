@@ -265,13 +265,15 @@ had a really blurry day, I did a lot still feel like I did nothing, these exams 
 ### 16/01/2024
 damn forgot to add todos today, ahh the exams are killing me, even though I came home early today still did not do much work, I admit today I did waste a lot of time, but we don't have time to be sad about that and get to work, so let's see.
 
-## 15/01/2024
+## 17/01/2024
 
 ### list
- - [ ] read the last journal
+ - [x] read the last journal
  - [ ] complete iot questions
  - [ ] revise iot once
  - [ ] cohort assignment
  - [ ] dsa lessons
  - [ ] journal
- 
+
+### journal 
+again could not get anything done, as I said the exams have been killing me but tomorrow I'm gonna kill the exams, I have to realize I am the one slackin off and not doing the things that are in my hands. but thats not gonna be the case tomorrow.
