@@ -264,4 +264,14 @@ had a really blurry day, I did a lot still feel like I did nothing, these exams 
 
 ### 16/01/2024
 damn forgot to add todos today, ahh the exams are killing me, even though I came home early today still did not do much work, I admit today I did waste a lot of time, but we don't have time to be sad about that and get to work, so let's see.
+
+## 15/01/2024
+
+### list
+ - [ ] read the last journal
+ - [ ] complete iot questions
+ - [ ] revise iot once
+ - [ ] cohort assignment
+ - [ ] dsa lessons
+ - [ ] journal
  
