@@ -281,11 +281,12 @@ again could not get anything done, as I said the exams have been killing me but 
 ## 17/01/2024
 
 ### list
- - [ ] read the last journal
- - [ ] complete 10 ns questions
+ - [x] read the last journal
+ - [x] complete 10 ns questions
  - [ ] complete 10 ns questions
  - [ ] cohort assignment
- - [ ] dsa lessons
+ - [x] dsa lessons
  - [ ] journal
 
- 
+### journal 
+absoulutely fed my sleep, did not get much done we'll see what we get done tomorrow
