@@ -277,3 +277,15 @@ damn forgot to add todos today, ahh the exams are killing me, even though I came
 
 ### journal 
 again could not get anything done, as I said the exams have been killing me but tomorrow I'm gonna kill the exams, I have to realize I am the one slackin off and not doing the things that are in my hands. but thats not gonna be the case tomorrow.
+
+## 17/01/2024
+
+### list
+ - [ ] read the last journal
+ - [ ] complete 10 ns questions
+ - [ ] complete 10 ns questions
+ - [ ] cohort assignment
+ - [ ] dsa lessons
+ - [ ] journal
+
+ 
