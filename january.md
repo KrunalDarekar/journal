@@ -290,3 +290,17 @@ again could not get anything done, as I said the exams have been killing me but 
 
 ### journal 
 absoulutely fed my sleep, did not get much done we'll see what we get done tomorrow
+
+## 25/01/2024
+
+### list 
+ - [ ] payment system 3 units
+ - [ ] payment system 5 units
+ - [ ] payment system 5 units
+ - [ ] script for the week 7 video
+ - [ ] record the week 7 video
+ - [ ] edit and upload the week 7 video
+ - [ ] dsa lesson
+ - [ ] journal
+
+### journal
