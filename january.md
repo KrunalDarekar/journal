@@ -302,5 +302,6 @@ absoulutely fed my sleep, did not get much done we'll see what we get done tomor
  - [ ] edit and upload the week 7 video
  - [ ] dsa lesson
  - [ ] journal
+ - [ ] clean my desk
 
 ### journal
