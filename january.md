@@ -295,8 +295,24 @@ absoulutely fed my sleep, did not get much done we'll see what we get done tomor
 
 ### list 
  - [ ] payment system 3 units
- - [ ] payment system 5 units
- - [ ] payment system 5 units
+ - [x] payment system 5 units
+ - [x] payment system 5 units
+ - [ ] script for the week 7 video
+ - [ ] record the week 7 video
+ - [ ] edit and upload the week 7 video
+ - [ ] dsa lesson
+ - [ ] journal
+ - [ ] clean my desk
+
+### journal
+Goddamn did not get much done, I think I'll need to ease into it, lets see how tomorrow goes.
+
+## 25/01/2024
+
+### list 
+ - [ ] read the last journal
+ - [ ] finish the current cohort class
+ - [ ] check if I all ready and set for this weeks classes
  - [ ] script for the week 7 video
  - [ ] record the week 7 video
  - [ ] edit and upload the week 7 video
