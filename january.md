@@ -323,3 +323,18 @@ Goddamn did not get much done, I think I'll need to ease into it, lets see how t
 
 ### journal
 so completed all my todos after a long time of procrastination. Wasn't a perfect day but still a pretty goodd day. I think I am getting back in the groove, wanna start doing the odin project lesson was from tomorrow and the gym. btw my VM was lagging very bad hopefully that is not a problem tomorrow. and I did not upload the video today I'll do that tomorrow. so yeah we'll see how tomorrow goes!
+
+## 27/01/2024
+
+### list 
+ - [ ] read the last journal
+ - [ ] design the dashboard component
+ - [ ] design the send component
+ - [ ] complete the paytm project
+ - [ ] upload the week 7 video
+ - [ ] the odin project lesson
+ - [ ] attend the cohort class
+ - [ ] get uni something to chew on
+ - [ ] journal
+
+### journal
