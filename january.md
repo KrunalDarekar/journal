@@ -327,14 +327,15 @@ so completed all my todos after a long time of procrastination. Wasn't a perfect
 ## 27/01/2024
 
 ### list 
- - [ ] read the last journal
- - [ ] design the dashboard component
- - [ ] design the send component
- - [ ] complete the paytm project
- - [ ] upload the week 7 video
- - [ ] the odin project lesson
- - [ ] attend the cohort class
- - [ ] get uni something to chew on
- - [ ] journal
+ - [x] read the last journal
+ - [x] design the dashboard component
+ - [x] design the send component
+ - [ ] complete the paytm project  --> ran out of time
+ - [x] upload the week 7 video
+ - [x] the odin project lesson
+ - [x] attend the cohort class
+ - [ ] get uni something to chew on  --> store was closed again
+ - [x] journal
 
 ### journal
+had a pretty good day, could have completed the paytm project but genuinely ran out of time. did both the thing that I wanted to do in the last journal entry that is went to gym (ahh forgot to add that in the todo) and started the odin project lesson. I also uploaded the yt video, I have been getting comments on these videos not a lot like a couple of guy asking for some help and it is always nice to help the community. thats it for the day hopefully we finish the month off strong we'll see about that tomorrow
