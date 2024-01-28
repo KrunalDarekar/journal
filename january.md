@@ -338,16 +338,19 @@ so completed all my todos after a long time of procrastination. Wasn't a perfect
  - [x] journal
 
 ### journal
-had a pretty good day, could have completed the paytm project but genuinely ran out of time. did both the thing that I wanted to do in the last journal entry that is went to gym (ahh forgot to add that in the todo) and started the odin project lesson. I also uploaded the yt video, I have been getting comments on these videos not a lot like a couple of guy asking for some help and it is always nice to help the community. thats it for the day hopefully we finish the month off strong we'll see about that tomorrow
+had a pretty good day, could have completed the paytm project but genuinely ran out of time. did both the things that I wanted to do in the last journal entry that is went to gym (ahh forgot to add that in the todo) and started the odin project lesson. I also uploaded the yt video, I have been getting comments on these videos not a lot like a couple of guies asking for some help and it is always nice to help the community. thats it for the day hopefully we finish the month off strong we'll see about that tomorrow
 
 ## 28/01/2024
 
 ### list 
- - [ ] read the last journal
- - [ ] complete the paytm project
- - [ ] script the week 8 video
- - [ ] dsa lesson
- - [ ] read a chapter of the book 12 week year
- - [ ] attend the cohort class
- - [ ] get uni something to chew on  
- - [ ] journal
+ - [x] read the last journal
+ - [x] complete the paytm project
+ - [ ] script the week 8 video  --> tried to do this but my head started aching
+ - [x] dsa lesson
+ - [x] read a chapter of the book 12 week year
+ - [x] attend the cohort class
+ - [ ] get uni something to chew on  --> could not get time for this
+ - [x] journal
+
+### journal
+had a pretty good day, but I don't know why my head started aching. started taking creatine again. got the payment project done that was the highlight of the day now I'll try and host it somehow. and that was it.
