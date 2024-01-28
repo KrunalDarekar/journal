@@ -339,3 +339,15 @@ so completed all my todos after a long time of procrastination. Wasn't a perfect
 
 ### journal
 had a pretty good day, could have completed the paytm project but genuinely ran out of time. did both the thing that I wanted to do in the last journal entry that is went to gym (ahh forgot to add that in the todo) and started the odin project lesson. I also uploaded the yt video, I have been getting comments on these videos not a lot like a couple of guy asking for some help and it is always nice to help the community. thats it for the day hopefully we finish the month off strong we'll see about that tomorrow
+
+## 28/01/2024
+
+### list 
+ - [ ] read the last journal
+ - [ ] complete the paytm project
+ - [ ] script the week 8 video
+ - [ ] dsa lesson
+ - [ ] read a chapter of the book 12 week year
+ - [ ] attend the cohort class
+ - [ ] get uni something to chew on  
+ - [ ] journal
