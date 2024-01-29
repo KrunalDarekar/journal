@@ -354,3 +354,20 @@ had a pretty good day, could have completed the paytm project but genuinely ran 
 
 ### journal
 had a pretty good day, but I don't know why my head started aching. started taking creatine again. got the payment project done that was the highlight of the day now I'll try and host it somehow. and that was it.
+
+## 28/01/2024
+
+### list 
+ - [ ] read the last journal
+ - [ ] odin project lesson 
+ - [ ] dsa lesson
+ - [ ] go to gym
+ - [ ] script the week 8 video 
+ - [ ] edit the week 8 video
+ - [ ] upload the week 8 video
+ - [ ] read a chapter of the book 12 week year
+ - [ ] get uni something to chew on 
+ - [ ] deploy the paytm project
+ - [ ] journal
+
+
