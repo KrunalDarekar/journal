@@ -377,15 +377,18 @@ the thing about today was I got a decent amount of work done, but it felt like c
 ## 28/01/2024
 
 ### list 
- - [ ] read the last journal
- - [ ] odin project lesson 1
- - [ ] odin project lsson 2
- - [ ] dsa lesson
- - [ ] revise what happend in the class 9.1 of the cohort
- - [ ] edit the week 8 video
- - [ ] upload the week 8 video
- - [ ] read a chapter of the book 12 week year
- - [ ] get uni something to chew on 
- - [ ] deploy the paytm project
+ - [x] read the last journal
+ - [x] odin project lesson 1
+ - [x] odin project lsson 2
+ - [x] dsa lesson
+ - [x] revise what happend in the class 9.1 of the cohort
+ - [x] edit the week 8 video
+ - [x] upload the week 8 video
+ - [x] read a chapter of the book 12 week year
+ - [ ] get uni something to chew on  --> the shop was closed
+ - [ ] deploy the paytm project  --> no luck
+
+### journal
+very very tired today, was about to have an abismmal day but clutched up at the end of the day. played badminton and uploaded my youtube video which is always fund, haven't yet read the book but I am gonna read it before sleeping so have marked it. and hopefully tomorrow is better.
 
 
