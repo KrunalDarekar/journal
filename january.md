@@ -374,4 +374,18 @@ had a pretty good day, but I don't know why my head started aching. started taki
 ### journal
 the thing about today was I got a decent amount of work done, but it felt like could have easily done more. I knowingly put more tasks in the list than I had time for but still like I could have edited the video maybe gotten another odin project lesson done but idk. the book I've started reading is kinda nice today I learned about annual thinking and how people just measure their successes based on a whole year which is bad because that makes us less productive in the middle of the year and only lets us be at our best at the start or end of the year.
 
+## 28/01/2024
+
+### list 
+ - [ ] read the last journal
+ - [ ] odin project lesson 1
+ - [ ] odin project lsson 2
+ - [ ] dsa lesson
+ - [ ] revise what happend in the class 9.1 of the cohort
+ - [ ] edit the week 8 video
+ - [ ] upload the week 8 video
+ - [ ] read a chapter of the book 12 week year
+ - [ ] get uni something to chew on 
+ - [ ] deploy the paytm project
+
 
