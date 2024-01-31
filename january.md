@@ -355,7 +355,7 @@ had a pretty good day, could have completed the paytm project but genuinely ran 
 ### journal
 had a pretty good day, but I don't know why my head started aching. started taking creatine again. got the payment project done that was the highlight of the day now I'll try and host it somehow. and that was it.
 
-## 28/01/2024
+## 29/01/2024
 
 ### list 
  - [x] read the last journal
@@ -374,7 +374,7 @@ had a pretty good day, but I don't know why my head started aching. started taki
 ### journal
 the thing about today was I got a decent amount of work done, but it felt like could have easily done more. I knowingly put more tasks in the list than I had time for but still like I could have edited the video maybe gotten another odin project lesson done but idk. the book I've started reading is kinda nice today I learned about annual thinking and how people just measure their successes based on a whole year which is bad because that makes us less productive in the middle of the year and only lets us be at our best at the start or end of the year.
 
-## 28/01/2024
+## 30/01/2024
 
 ### list 
  - [x] read the last journal
@@ -390,5 +390,18 @@ the thing about today was I got a decent amount of work done, but it felt like c
 
 ### journal
 very very tired today, was about to have an abismmal day but clutched up at the end of the day. played badminton and uploaded my youtube video which is always fund, haven't yet read the book but I am gonna read it before sleeping so have marked it. and hopefully tomorrow is better.
+
+## 31/01/2024
+
+### list 
+ - [ ] read the last journal
+ - [ ] odin project lesson 1
+ - [ ] Shopping cart project
+ - [ ] understand everything till graph
+ - [ ] read a chapter of the book 12 week year
+ - [ ] get uni something to chew on 
+ - [ ] work on removing the user list paytm feature
+ - [ ] work on user search debouncing
+ - [ ] look into gsoc adhoc videos
 
 
