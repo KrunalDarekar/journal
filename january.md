@@ -389,19 +389,22 @@ the thing about today was I got a decent amount of work done, but it felt like c
  - [ ] deploy the paytm project  --> no luck
 
 ### journal
-very very tired today, was about to have an abismmal day but clutched up at the end of the day. played badminton and uploaded my youtube video which is always fund, haven't yet read the book but I am gonna read it before sleeping so have marked it. and hopefully tomorrow is better.
+very very tired today, was about to have an abismmal day but clutched up at the end of the day. played badminton and uploaded my youtube video which is always fun, haven't yet read the book but I am gonna read it before sleeping so have marked it. and hopefully tomorrow is better.
 
 ## 31/01/2024
 
 ### list 
- - [ ] read the last journal
- - [ ] odin project lesson 1
+ - [x] read the last journal
+ - [x] odin project lesson 1
  - [ ] Shopping cart project
- - [ ] understand everything till graph
+ - [x] understand everything till graph
  - [ ] read a chapter of the book 12 week year
  - [ ] get uni something to chew on 
- - [ ] work on removing the user list paytm feature
+ - [x] work on removing the user list paytm feature
  - [ ] work on user search debouncing
  - [ ] look into gsoc adhoc videos
+
+### journal
+very so so day, I have noticed the morning is the most important part of my day, if I get a lot of work done before 12 the day mostly goes alright. I am gonna do breakfast or lunch without watching anything entertaining and make it fast from tomorrow. so lets see what we can do.
 
 
