@@ -20,13 +20,16 @@ had a decent day even though my head was aching almost the whole day, I think I 
 ## 02/02/2024
 
 ### list
- - [ ] read the last journal
- - [ ] Shopping cart project (must)
- - [ ] dsa lesson
- - [ ] read a chapter of the book 12 week year
- - [ ] start the 100 days of code challenge on twitter (must)
- - [ ] look into gsoc adhoc videos
- - [ ] edit the week 9 video
- - [ ] upload the week 9 video
- - [ ] attend the cohort class
- - [ ] no social media till 2 pm
+ - [x] read the last journal
+ - [x] Shopping cart project (must)
+ - [x] dsa lesson
+ - [x] read a chapter of the book 12 week year
+ - [x] start the 100 days of code challenge on twitter (must)
+ - [x] look into gsoc adhoc videos
+ - [x] edit the week 9 video
+ - [x] upload the week 9 video
+ - [x] attend the cohort class
+ - [x] no social media till 2 pm
+
+### journal
+good day overall but it was just so bussy. I need to know how to make my dog stop whining. thats it for today
