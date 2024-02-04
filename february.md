@@ -33,3 +33,20 @@ had a decent day even though my head was aching almost the whole day, I think I 
 
 ### journal
 good day overall but it was just so bussy. I need to know how to make my dog stop whining. thats it for today
+
+## 02/02/2024
+
+### list
+ - [ ] read the last journal
+ - [ ] make data fetching hooks for shopping cart project
+ - [ ] dsa lesson
+ - [ ] read a chapter of the book 12 week year
+ - [ ] 100 days of code tweet
+ - [ ] look into gsoc adhoc videos
+ - [ ] install docker
+ - [ ] set up a gsoc projcet locally
+ - [ ] attend the cohort class
+ - [ ] no social media till 2 pm
+ - [ ] journal
+
+
