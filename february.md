@@ -17,7 +17,7 @@ goddamn missed the first day!
 ### journal
 had a decent day even though my head was aching almost the whole day, I think I am gonna fall sick, lets hope for the best. I think the project fear is getting me again I am just afraid to start the shopping project, not afraid but I'm just procrastinating it a lot. we need to fix that and I need to put some priority next to the imp todos so that I know like I need to work on that think that particular day. 
 
-## 02/02/2024
+## 03/02/2024
 
 ### list
  - [x] read the last journal
@@ -34,19 +34,22 @@ had a decent day even though my head was aching almost the whole day, I think I 
 ### journal
 good day overall but it was just so bussy. I need to know how to make my dog stop whining. thats it for today
 
-## 02/02/2024
+## 04/02/2024
 
 ### list
- - [ ] read the last journal
- - [ ] make data fetching hooks for shopping cart project
- - [ ] dsa lesson
+ - [x] read the last journal
+ - [x] make data fetching hooks for shopping cart project
+ - [x] dsa lesson
  - [ ] read a chapter of the book 12 week year
- - [ ] 100 days of code tweet
- - [ ] look into gsoc adhoc videos
- - [ ] install docker
+ - [x] 100 days of code tweet
+ - [x] look into gsoc adhoc videos
+ - [x] install docker
  - [ ] set up a gsoc projcet locally
  - [ ] attend the cohort class
- - [ ] no social media till 2 pm
- - [ ] journal
+ - [x] no social media till 2 pm
+ - [x] journal
+
+### journal
+again a hectic day, had some function at my house but still managed to get some thing done so that was good. the open source thing is not as easy as I was expecting it to which I was expecting, the projects just run on so much older technology than what we are using rn but we'll figure it out, I promise myself that.
 
 
