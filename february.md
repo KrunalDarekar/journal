@@ -72,10 +72,14 @@ again a hectic day, had some function at my house but still managed to get some 
 ### list
  - [ ] work on shopping cart project
  - [ ] read a chapter of the book 12 week year
- - [ ] 100 days of code tweet
+ - [x] 100 days of code tweet
  - [ ] look into gsoc adhoc videos
  - [ ] select one other organization that mathches my stack
  - [ ] set up a gsoc projcet locally
  - [ ] watch the cohort class
- - [ ] journal
+ - [x] journal
+
+### journal
+did not get anything done. I don't really know what to saybut yep was scrolling the whole damn day. so that's bad, I should really work on my mornings. from today I am gonna write my todos beforehand so in the morning I already have something to do and not waste my prime time deciding what I have to do the whole day so yeah that's that.
+
 
