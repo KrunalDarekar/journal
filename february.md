@@ -52,6 +52,7 @@ good day overall but it was just so bussy. I need to know how to make my dog sto
 ### journal
 again a hectic day, had some function at my house but still managed to get some thing done so that was good. the open source thing is not as easy as I was expecting it to which I was expecting, the projects just run on so much older technology than what we are using rn but we'll figure it out, I promise myself that.
 
+## 05/02/2024
 
 ### list
  - [ ] read the last journal
@@ -66,4 +67,15 @@ again a hectic day, had some function at my house but still managed to get some 
  - [ ] no social media till 2 pm
  - [ ] journal
 
+## 06/02/2024
+
+### list
+ - [ ] work on shopping cart project
+ - [ ] read a chapter of the book 12 week year
+ - [ ] 100 days of code tweet
+ - [ ] look into gsoc adhoc videos
+ - [ ] select one other organization that mathches my stack
+ - [ ] set up a gsoc projcet locally
+ - [ ] watch the cohort class
+ - [ ] journal
 
