@@ -80,15 +80,20 @@ again a hectic day, had some function at my house but still managed to get some 
  - [x] journal
 
 ### journal
-did not get anything done. I don't really know what to saybut yep was scrolling the whole damn day. so that's bad, I should really work on my mornings. from today I am gonna write my todos beforehand so in the morning I already have something to do and not waste my prime time deciding what I have to do the whole day so yeah that's that.
+did not get anything done. I don't really know what to say but yep was scrolling the whole damn day. so that's bad, I should really work on my mornings. from today I am gonna write my todos beforehand so in the morning I already have something to do and not waste my prime time deciding what I have to do the whole day so yeah that's that.
+
+## 07/02/2024
 
 ### list
- - [ ] complete the header and the home page of the shopping cart project
+ - [x] complete the header and the home page of the shopping cart project
  - [ ] read a chapter of the book 12 week year
- - [ ] 100 days of code tweet
- - [ ] select one other organization that mathches my stack 
+ - [x] 100 days of code tweet
+ - [x] select one other organization that mathches my stack 
  - [ ] set up a gsoc projcet locally (must)
- - [ ] read the last journal
- - [ ] journal
+ - [x] read the last journal
+ - [x] journal
+
+### journal
+had a better day overall still wasn't even close to the days I had on average I just have to capitalize my mornings better thats it
 
 
