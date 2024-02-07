@@ -96,4 +96,18 @@ did not get anything done. I don't really know what to say but yep was scrolling
 ### journal
 had a better day overall still wasn't even close to the days I had on average I just have to capitalize my mornings better thats it
 
+## 08/02/2024
+
+ - [ ] complete the shop page of the shopping cart project
+ - [ ] complete the cohort assignments
+ - [ ] odin project lesson
+ - [ ] read a chapter of the book 12 week year
+ - [ ] script for the week-10 video
+ - [ ] 100 days of code tweet
+ - [ ] work on the cce extractor things
+ - [ ] journal
+
+
+
+
 
