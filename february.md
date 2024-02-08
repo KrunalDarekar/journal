@@ -99,17 +99,30 @@ had a better day overall still wasn't even close to the days I had on average I 
 ## 08/02/2024
 
 ### list
- - [ ] complete the shop page of the shopping cart project
+ - [x] complete the shop page of the shopping cart project
  - [ ] complete the cohort assignments
+ - [x] odin project lesson
+ - [ ] read a chapter of the book 12 week year
+ - [ ] script for the week-10 video
+ - [x] 100 days of code tweet
+ - [ ] work on the cce extractor things
+ - [x] read the last journal
+ - [x] journal
+
+### journal
+had an even better day than yesterday, just that my elbow was hurting a lot today so focus was a bit off today. I am stuck on the posgres assignments I am just gonna start the prisma assignments tomorrow and we'll see from there. did make a decent amount of progress with my shopping cart project. could not give time to the cce extractor thing which is important so we'll see.
+
+## 08/02/2024
+
+### list
+ - [ ] complete the prisma assignments
+ - [ ] work on the cce extractor things
+ - [ ] complete the cart page of the shopping cart project
+ - [ ] make the cart work
  - [ ] odin project lesson
  - [ ] read a chapter of the book 12 week year
  - [ ] script for the week-10 video
  - [ ] 100 days of code tweet
- - [ ] work on the cce extractor things
  - [ ] read the last journal
  - [ ] journal
-
-
-
-
 
