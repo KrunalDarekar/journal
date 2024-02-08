@@ -98,6 +98,7 @@ had a better day overall still wasn't even close to the days I had on average I 
 
 ## 08/02/2024
 
+### list
  - [ ] complete the shop page of the shopping cart project
  - [ ] complete the cohort assignments
  - [ ] odin project lesson
@@ -105,6 +106,7 @@ had a better day overall still wasn't even close to the days I had on average I 
  - [ ] script for the week-10 video
  - [ ] 100 days of code tweet
  - [ ] work on the cce extractor things
+ - [ ] read the last journal
  - [ ] journal
 
 
