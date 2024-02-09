@@ -115,17 +115,29 @@ had an even better day than yesterday, just that my elbow was hurting a lot toda
 ## 09/02/2024
 
 ### list
- - [ ] complete the prisma assignments
+ - [x] complete the prisma assignments
  - [ ] work on the cce extractor things
  - [ ] complete the cart page of the shopping cart project  --> did work on the project but diff things
  - [ ] make the cart work
  - [x] odin project lesson
  - [ ] read a chapter of the book 12 week year
- - [x] script for the week-10 video
+ - [ ] script for the week-10 video
  - [x] 100 days of code tweet
  - [x] read the last journal
- - [ ] journal
+ - [x] journal
 
 ### journal
 did start the day bad again, but my elbow felt better started work at 4pm so could not get as much done but still did do a decent bit. hopefully elbow is back to 100% soon. Morning gotta focus on my mornings yep thats it for today.
 
+## 10/02/2024
+
+### list
+ - [ ] work on the cce extractor things
+ - [ ] complete the cart page of the shopping cart project  --> did work on the project but diff things
+ - [ ] make the cart work
+ - [ ] odin project lesson
+ - [ ] read a chapter of the book 12 week year
+ - [ ] script for the week-10 video
+ - [ ] 100 days of code tweet
+ - [ ] read the last journal
+ - [ ] journal
