@@ -146,3 +146,17 @@ did start the day bad again, but my elbow felt better started work at 4pm so cou
 
 ### journal
 had an even better day than yesterday, capitalized on my morning, which is I think the most important and does'nt matter if I slack off a bit during the day later. I think I went into deep work like two times because I had the motivation to finish the odin project react part yep very special moment for me to realise how far I have come. elbow was worse in the morning but better throughout the day hopefully that gets better and yeah that's it we'll see how tomorrow goes
+
+## 11/02/2024
+
+### list
+ - [ ] work on the cce extractor things
+ - [ ] script for the week-10 video
+ - [ ] record the week-10 video
+ - [ ] edit the week-10 video
+ - [ ] revise week-11.1 of cohort
+ - [ ] read a chapter of the book 12 week year
+ - [ ] 100 days of code tweet
+ - [ ] attend the cohort class
+ - [ ] read the last journal
+ - [ ] journal
