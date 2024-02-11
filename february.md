@@ -150,13 +150,18 @@ had an even better day than yesterday, capitalized on my morning, which is I thi
 ## 11/02/2024
 
 ### list
- - [ ] work on the cce extractor things
+ - [x] work on the cce extractor things
  - [ ] script for the week-10 video
  - [ ] record the week-10 video
  - [ ] edit the week-10 video
  - [ ] revise week-11.1 of cohort
  - [ ] read a chapter of the book 12 week year
- - [ ] 100 days of code tweet
- - [ ] attend the cohort class
- - [ ] read the last journal
- - [ ] journal
+ - [x] 100 days of code tweet
+ - [x] attend the cohort class
+ - [x] read the last journal
+ - [x] journal
+
+### journal
+had a very bad day, did not capitalize on my morning time and did do the cce extractor things but it wasn't as easy as I thought it woudl be. day could have been recoverd if the class went well but I could not get an aws account so the class was also very so so. And yep did not do much. things I need to start doing are:
+    - mornings
+    - the first thing I do, I should be confident that I can complete it
