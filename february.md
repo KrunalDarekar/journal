@@ -179,3 +179,16 @@ had a very bad day, did not capitalize on my morning time and did do the cce ext
  - [ ] 100 days of code tweet
  - [ ] read the last journal
  - [ ] journal
+
+## 13/02/2024
+
+### list
+ - [ ] odin project lessons
+ - [ ] script for the week-10 video
+ - [ ] record the week-10 video
+ - [ ] edit the week-10 video
+ - [ ] revise week-11 of cohort
+ - [ ] read a chapter of the book 12 week year
+ - [ ] 100 days of code tweet
+ - [ ] read the last journal
+ - [ ] journal
