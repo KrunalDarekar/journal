@@ -192,3 +192,19 @@ had a very bad day, did not capitalize on my morning time and did do the cce ext
  - [ ] 100 days of code tweet
  - [ ] read the last journal
  - [ ] journal
+
+so I have been slacking off thats it for some reason I have been avoiding to make the cohort recap videos I was just watching aimless yt videos, scrolling and I need to get back on track. I need to make some changes and get back to it
+
+## 14/02/2024
+
+### list
+ - [ ] odin project lessons
+ - [ ] script for the week-10 video
+ - [ ] record the week-10 video
+ - [ ] edit the week-10 video
+ - [ ] revise week-11 of cohort
+ - [ ] read a chapter of the book 12 week year
+ - [ ] 100 days of code tweet
+ - [ ] read the last journal
+ - [ ] journal
+
