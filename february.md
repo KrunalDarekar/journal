@@ -208,3 +208,18 @@ so I have been slacking off thats it for some reason I have been avoiding to mak
  - [ ] read the last journal
  - [ ] journal
 
+## 19/02/2024
+
+it has been quite a while, I have just been too distracted sort of directionless I guess literally did nothing towards getting a job this week essentially. I should start breaking things into smaller peices and focus on getting things done.
+
+## 20/02/2024
+
+### list
+- [ ] start the first portfolio project (witheboard-it)
+- [ ] record the week-10 video
+- [ ] edit the week-10 video
+- [ ] the odin project lesson
+- [ ] get the cohort stuff done
+- [ ] 100 days of code tweet
+- [ ] journal
+
