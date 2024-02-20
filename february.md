@@ -215,11 +215,27 @@ it has been quite a while, I have just been too distracted sort of directionless
 ## 20/02/2024
 
 ### list
-- [ ] start the first portfolio project (witheboard-it)
-- [ ] record the week-10 video
+- [x] start the first portfolio project (witheboard-it)
+- [x] record the week-10 video
 - [ ] edit the week-10 video
+- [x] the odin project lesson
+- [ ] get the cohort stuff done  --> nothing about the cohort was updated
+- [ ] 100 days of code tweet 
+- [x] journal
+
+### journal
+
+it was a mid day I would say, did get some things done but I need to manage my time better. nothing much to say
+
+## 21/02/2023
+
+### list
+- [ ] work on whiteboard it
 - [ ] the odin project lesson
+- [ ] upload the week-10 video
+- [ ] edit the week-10 video
 - [ ] get the cohort stuff done
-- [ ] 100 days of code tweet
+- [ ] revise typescript and learn how to use typescript in react
+- [ ] 100 days of code tweet 
 - [ ] journal
 
