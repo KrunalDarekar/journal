@@ -239,3 +239,18 @@ it was a mid day I would say, did get some things done but I need to manage my t
 - [ ] 100 days of code tweet 
 - [ ] journal
 
+## 23/02/2023
+
+### list
+ - [ ] shift whiteboard it to a react(javascript project)
+ - [ ] list all the extra features I want to add to whiteboard it
+ - [ ] implement some features to the project
+ - [ ] upload the week-10 video
+ - [ ] go through the following videos on cohort
+    - [ ] Advanced typescript API
+    - [ ] Cohort 1 - Deploying npm packages and intro to mono repos
+    - [ ] 12.3 | Actionable docker - How to run packages locally
+    - [ ] 12.4 | SQL Relationships and Joins
+ - [ ] 100 days of code tweet 
+ - [ ] journal
+
