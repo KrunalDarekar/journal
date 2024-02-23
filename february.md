@@ -242,15 +242,18 @@ it was a mid day I would say, did get some things done but I need to manage my t
 ## 23/02/2023
 
 ### list
- - [ ] shift whiteboard it to a react(javascript project)
- - [ ] list all the extra features I want to add to whiteboard it
- - [ ] implement some features to the project
- - [ ] upload the week-10 video
+ - [x] shift whiteboard it to a react(javascript project)
+ - [x] list all the extra features I want to add to whiteboard it
+ - [x] implement some features to the project
+ - [x] upload the week-10 video
  - [ ] go through the following videos on cohort
-    - [ ] Advanced typescript API
+    - [x] Advanced typescript API
     - [ ] Cohort 1 - Deploying npm packages and intro to mono repos
-    - [ ] 12.3 | Actionable docker - How to run packages locally
+    - [x] 12.3 | Actionable docker - How to run packages locally
     - [ ] 12.4 | SQL Relationships and Joins
- - [ ] 100 days of code tweet 
- - [ ] journal
+ - [x] 100 days of code tweet 
+ - [x] journal
+
+### journal
+journaling quite early today, even though I watched a half of warriors game today in the morning still got a lot of things done which tells me I can get a lot of stuff if I am motivated and just don't scroll and maybe warriors winning the game affected my mood hehe, I am journaling earnly because I am going to watch a movie at 8 it's a horror movie so wishing my future self the best. my mood was very good today because yesterday played some good badminton games, met a cute dog named alpha who was a white german shepherd he was a good boi, and warriors won today. I am still going to work on my whiteboard project untill I am leaving for the movie, I tweeted and did the journaling early so that I don't forget it. So that's aobut it for today
 
