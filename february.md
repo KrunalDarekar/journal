@@ -257,3 +257,20 @@ it was a mid day I would say, did get some things done but I need to manage my t
 ### journal
 journaling quite early today, even though I watched a half of warriors game today in the morning still got a lot of things done which tells me I can get a lot of stuff if I am motivated and just don't scroll and maybe warriors winning the game affected my mood hehe, I am journaling earnly because I am going to watch a movie at 8 it's a horror movie so wishing my future self the best. my mood was very good today because yesterday played some good badminton games, met a cute dog named alpha who was a white german shepherd he was a good boi, and warriors won today. I am still going to work on my whiteboard project untill I am leaving for the movie, I tweeted and did the journaling early so that I don't forget it. So that's aobut it for today
 
+## 24/02/2023
+
+### list
+ - [ ] implement some features to the whiteboard it project
+ - [ ] upload the week-10 video
+ - [ ] go through the following videos on cohort
+    - [ ] Cohort 1 - Deploying npm packages and intro to mono repos
+    - [ ] 12.4 | SQL Relationships and Joins
+ - [ ] script the week-11 video
+ - [ ] record the week-11 video
+ - [ ] edit the week-11 video
+ - [ ] upload the week-11 video
+ - [ ] make a plan of dsa
+ - [ ] attend the cohort class
+ - [ ] 100 days of code tweet 
+ - [ ] journal
+
