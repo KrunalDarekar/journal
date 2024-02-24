@@ -276,4 +276,19 @@ journaling quite early today, even though I watched a half of warriors game toda
 ### journal
 woke up super late today so could not get much done, not only that but I was also super distracted. so yeah pretty much nothing special about this day one of those filler days.
 
+## 24/02/2023
 
+### list
+ - [ ] implement some features to the whiteboard it project
+ - [ ] go through the following videos on cohort
+    - [ ] 12.4 | SQL Relationships and Joins
+    - [ ] Cohort 1 - Deploying npm packages and intro to mono repos
+ - [ ] try to complete the cohort project backend
+ - [ ] script the week-11 video
+ - [ ] record the week-11 video
+ - [ ] edit the week-11 video
+ - [ ] upload the week-11 video
+ - [ ] make a plan of dsa
+ - [ ] attend the cohort class
+ - [ ] 100 days of code tweet 
+ - [ ] journal
