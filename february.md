@@ -261,7 +261,6 @@ journaling quite early today, even though I watched a half of warriors game toda
 
 ### list
  - [ ] implement some features to the whiteboard it project
- - [ ] upload the week-10 video
  - [ ] go through the following videos on cohort
     - [ ] Cohort 1 - Deploying npm packages and intro to mono repos
     - [ ] 12.4 | SQL Relationships and Joins
@@ -270,7 +269,11 @@ journaling quite early today, even though I watched a half of warriors game toda
  - [ ] edit the week-11 video
  - [ ] upload the week-11 video
  - [ ] make a plan of dsa
- - [ ] attend the cohort class
- - [ ] 100 days of code tweet 
- - [ ] journal
+ - [x] attend the cohort class
+ - [x] 100 days of code tweet 
+ - [x] journal
+
+### journal
+woke up super late today so could not get much done, not only that but I was also super distracted. so yeah pretty much nothing special about this day one of those filler days.
+
 
