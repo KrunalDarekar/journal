@@ -299,9 +299,27 @@ does not look like I did much, but spent most of my day on the whiteboard-it pro
 ## 25/02/2023
 
 ### list
- - [ ] implement some features to the whiteboard it project
+ - [x] implement some features to the whiteboard it project
  - [ ] Cohort 1 - Deploying npm packages and intro to mono repos
  - [ ] try to complete the cohort project backend
+ - [ ] script the week-11 video
+ - [ ] record the week-11 video
+ - [ ] work on resume
+ - [ ] edit the week-11 video
+ - [ ] upload the week-11 video
+ - [ ] make a plan of dsa
+ - [ ] 100 days of code tweet 
+ - [x] journal
+
+### journal 
+did not do much today, twitter is deactivated which is kinda demotivating so yep nothing much to the day.
+
+## 25/02/2023
+
+### list
+ - [ ] try to complete the cohort project backend
+ - [ ] Cohort 1 - Deploying npm packages and intro to mono repos
+ - [ ] implement some features to the whiteboard it
  - [ ] script the week-11 video
  - [ ] record the week-11 video
  - [ ] work on resume
