@@ -21,10 +21,27 @@ today started off really bad woke up verrry late, like I don't know what has hap
 ## 14/04/2024
 
 ### list
- - [ ] read the last journal
- - [ ] top dsa lesson
+ - [x] read the last journal
+ - [x] top dsa lesson
  - [ ] start the avataar me project
- - [ ] cohort offline lecture
+ - [x] cohort offline lecture
+ - [x] FE interview lesson on algochurn
+ - [ ] write some blogs for the blogging app
+ - [x] journal
+
+### journal
+woke up pretty early today like just had 6 hours of sleep I guess, still did not sleep or felt sleepy throughout the day, had a really gread day overall in a while, wrote a lot of code today. The only thing that bummed me out a bit was I was again afraid of starting the new project which is a classic but overall the day was great.
+
+## 15/04/2024
+
+### list
+ - [ ] read the last journal
+ - [ ] start the avataar me project
+ - [ ] start the e-com me project
+ - [ ] start the portfolio project
+ - [ ] find a dsa source for solving 75blind
+ - [ ] solve one dsa problem
  - [ ] FE interview lesson on algochurn
  - [ ] write some blogs for the blogging app
+ - [ ] book bus tickets
  - [ ] journal
