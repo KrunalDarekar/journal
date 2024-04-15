@@ -30,18 +30,33 @@ today started off really bad woke up verrry late, like I don't know what has hap
  - [x] journal
 
 ### journal
-woke up pretty early today like just had 6 hours of sleep I guess, still did not sleep or felt sleepy throughout the day, had a really gread day overall in a while, wrote a lot of code today. The only thing that bummed me out a bit was I was again afraid of starting the new project which is a classic but overall the day was great.
+woke up pretty early today like just had 6 hours of sleep I guess, still did not sleep or felt sleepy throughout the day, had a really great day overall in a while, wrote a lot of code today. The only thing that bummed me out a bit was I was again afraid of starting the new project which is a classic but overall the day was great.
 
 ## 15/04/2024
 
 ### list
- - [ ] read the last journal
- - [ ] start the avataar me project
+ - [x] read the last journal
+ - [x] start the avataar me project
  - [ ] start the e-com me project
  - [ ] start the portfolio project
- - [ ] find a dsa source for solving 75blind
+ - [x] find a dsa source for solving 75blind
+ - [x] solve one dsa problem
+ - [ ] FE interview lesson on algochurn
+ - [ ] write some blogs for the blogging app
+ - [x] book bus tickets
+ - [x] journal
+
+### journal
+this day was baddddd like really one of the worst days for factors I could not controll lets just not elaborate those yk what I will. so I woke up at like 5:30 its not like I want to wake up at 5:30 but my sleep is down bad so once I wake up to pee I am wide awake anyways I decide, to you know what study at 5:30 in the morning do you know how much that took from me, I set up everything to study turn on my laptop and guess what I see no internet like tf, this broke my spirit even though I knew I could use my phone internet but in the past my phone's hotspod did not connect to my laptop so I did not even bother checking then went straight to yt on my phone and later called my isp at like 9 he said he'll fix it quick I called him again at 12 he still did not fix it so you know what I did I connected my phone's internet to the laptop and it connected so I was happy and as soon as I started coding we had some guest who appeared out of nowhere like what and I had to stop studying. in all of this madness I started studying at 3 and even while studying I could not get somethings working, and that pretty much sums up the kinda day I had even more things happened but I am too tired to elaborate now. I still managed to get a lot of thing done so that is that hopefully tomorrow will be a better day luck wise.
+
+## 16/04/2024
+
+### list
+ - [ ] read the last journal
+ - [ ] start the e-com me project
+ - [ ] start the portfolio project
+ - [ ] work on the avataar me project
  - [ ] solve one dsa problem
  - [ ] FE interview lesson on algochurn
  - [ ] write some blogs for the blogging app
- - [ ] book bus tickets
  - [ ] journal
